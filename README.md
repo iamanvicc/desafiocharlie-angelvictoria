@@ -7,15 +7,20 @@ Ao ser aberto, são obtidas informações de geolocalização do usuário pelo n
 No Background é obtido a imagem de fundo do Bing através de uma API da própria plataforma. 
 
 
+
 ## Tecnologias utilizadas neste projeto:
 
 Desenvolvido por React, utilizando TypeScript e Styled Components para a estilização do projeto.
 As APIs foram solicitadas através do axios. 
 //Ainda será executado o webpack e o docker.
 
+
+
 ## A execução do projeto:
 
 Para instalar as dependências utilizar o "npm install"
+
+
 
 ## Minhas informações para contato:
 E-mail: iamanvicc@gmail.com
