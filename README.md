@@ -1,18 +1,21 @@
-##Descrição sobre o projeto: 
-Este projeto é um microsite que mostra a previsão do tempo solicitadas pelo usuário. 
+## Descrição sobre o projeto:
 
-Ao ser aberto, são obtidas informações de geolocalização do usuário pelo navegador. Logo após, é solicitado uma busca para a API
-para retornar a localização  e os dados obtidos de previsão de tempo.
+Este projeto é um **microsite** que mostra a **previsão do tempo** solicitadas pelo usuário. 
+
+Ao ser aberto, são obtidas informações de geolocalização do usuário pelo navegador. Logo após, é solicitado uma busca para a **API** para **retornar a localização  e os dados obtidos de previsão de tempo.**
 
 No Background é obtido a imagem de fundo do Bing através de uma API da própria plataforma. 
 
 
-##Tecnologias utilizadas neste projeto: 
+## Tecnologias utilizadas neste projeto:
+
 Desenvolvido por React, utilizando TypeScript e Styled Components para a estilização do projeto.
 As APIs foram solicitadas através do axios. 
 //Ainda será executado o webpack e o docker.
 
+## A execução do projeto:
 
-##A execução do projeto:
+Para instalar as dependências utilizar o "npm install"
 
-
+## Minhas informações para contato:
+E-mail: iamanvicc@gmail.com
