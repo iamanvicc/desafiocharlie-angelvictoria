@@ -6,6 +6,8 @@ Ao ser aberto, são obtidas informações de geolocalização do usuário pelo n
 
 No Background é obtido a imagem de fundo do Bing através de uma API da própria plataforma. 
 
+Importante: A configuração do projeto ainda não foi finalizada e os detalhes adicionais no README ainda não foram introduzidos. 
+
 
 
 ## Tecnologias utilizadas neste projeto:
@@ -19,7 +21,7 @@ As APIs foram solicitadas através do axios.
 ## A execução do projeto:
 
 Para instalar as dependências utilizar o "npm install"
-
+Para executar o projeto "npm start"
 
 
 ## Minhas informações para contato:
